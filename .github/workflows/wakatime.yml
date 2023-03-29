@@ -17,4 +17,4 @@ jobs:
           COMMIT_MESSAGE: wakatime-bot > WakaTime has been updated.
           IMAGES_FOLDER: images
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }} # only required if using the action in repository other than profile
+          GITHUB_TOKEN: ${{ secrets.TOKEN  }} # only required if using the action in repository other than profile
