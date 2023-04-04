@@ -26,10 +26,6 @@
 
 ![light](https://raw.githubusercontent.com/Zero-Rock/Zero-Rock/output/github-snake.svg#gh-light-mode-only)
 
-### Code Time
-
-<div align="center"><img src="https://wakatime.com/share/@f9a0c08a-21d9-4812-9e41-948579bb65dc/a249d5b5-ef68-4593-ae4f-3e6e8df8175e.svg"/></div>
-
 
 <div align="center">
 <a href="#">
