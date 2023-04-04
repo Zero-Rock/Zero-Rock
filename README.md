@@ -16,7 +16,7 @@
 
 ### Code Time
 
-<img height="155em" src="https://wakatime.com/share/@f9a0c08a-21d9-4812-9e41-948579bb65dc/a249d5b5-ef68-4593-ae4f-3e6e8df8175e.svg"/>
+<img src="https://wakatime.com/share/@f9a0c08a-21d9-4812-9e41-948579bb65dc/a249d5b5-ef68-4593-ae4f-3e6e8df8175e.svg"/>
 
 #### Weekly Development Breakdown
 
