@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Coding+for+the+future......" alt="Typing SVG" /></a></a>
 </p>
 
-<h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>, I'm Zero <img src="https://komarev.com/ghpvc/?username=Zero-Rock&label=Profile%20views&color=0e75b6&style=flat" alt="Zero" /></h1>
+<h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>, I'm Zero <img src="https://komarev.com/ghpvc/?username=Zero-Rock&label=visitor&color=0e75b6&style=flat" alt="Zero" />  <img src="https://wakatime.com/badge/user/f9a0c08a-21d9-4812-9e41-948579bb65dc.svg" alt="Total time coded since Aug 2 2021" /></h1>
 
 ### About Me
 
@@ -10,9 +10,48 @@
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-### Languages and Tools
+### As Web Developer
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="#EC4A3F" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
+<img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind css-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
+<img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
-![Languages and Tools](https://skillicons.dev/icons?i=react,vue,typescript,javascript,electron,sass,tailwind,nodejs,expressjs,nestjs,nextjs,vite,jest,webpack,babel,kubernetes,docker,md,mongo,mysql,idea,py&theme=dark)
+### As Backend Developer (🤔)
+<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+### Tools
+<img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-4ca6ff?style=flat-square&logo=webstorm&logoColor=white">
+<img alt="VsCode" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white">
+<img alt="iTerm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white">
+
+### other
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+
 
 #### Weekly Development Breakdown
 
