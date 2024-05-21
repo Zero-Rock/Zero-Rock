@@ -51,6 +51,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
 <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white">
 <img alt="iTerm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat&logo=iterm2&logoColor=white">
+<img alt="Warp" src="https://img.shields.io/badge/-Warp-000000?style=flat&logo=warp&logoColor=5BCCE1" />  
 </div>
 
 ### other
