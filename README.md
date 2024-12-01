@@ -63,7 +63,7 @@
 
 #### Weekly Development Breakdown
 
-![Zero-Rock's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=zero_rock&layout=compact&theme=gruvbox&display_format=percent)
+![Zero-Rock's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=zero_rock&layout=compact&theme=gruvbox&display_format=percent&langs_count=10)
 
 ### Contributions In The Last Year
 
