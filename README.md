@@ -57,6 +57,7 @@
 ### other
 <div>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=?style=plastic&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
 </div>
 
