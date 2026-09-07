@@ -60,33 +60,3 @@
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
 </div>
 
-
-#### Weekly Development Breakdown
-
-![Zero-Rock's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=zero_rock&layout=compact&theme=gruvbox&display_format=percent&langs_count=10)
-
-### Contributions In The Last Year
-
-![dark](https://raw.githubusercontent.com/Zero-Rock/Zero-Rock/output/github-snake-dark.svg#gh-dark-mode-only)
-
-![light](https://raw.githubusercontent.com/Zero-Rock/Zero-Rock/output/github-snake.svg#gh-light-mode-only)
-
-
-<div align="center">
-<a href="#">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Zero-Rock&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
-</a>
-  
-<a href="#">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-Rock&layout=compact&langs_count=5&theme=gruvbox&hide_border=true" />
-  </a>
-</div>
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Zero-Rock&theme=gruvbox&hide_border=true&bg_color=282828)
-
-
-<div align="center">
-    <a href="#">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zero-Rock&theme=gruvbox" />
-  </a>
-</div>
